@@ -1,0 +1,15 @@
+{
+  "name": "cuida-psql",
+  "version": "1.0.0",
+  "description": "Cuida",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch --no-warnings ./src/app.js",
+    "start": "node ./src/app.js"
+  },
+  "author": "andreJun1or",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
